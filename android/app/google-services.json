@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090824648522",
+    "project_id": "restruntapp-849ba",
+    "storage_bucket": "restruntapp-849ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090824648522:android:da7cb5ea65b6580b1f73b3",
+        "android_client_info": {
+          "package_name": "com.example.untitled17"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090824648522-vv0ifc137uqu6kf654iig0nj5km6us0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZvW0ywd3dbxoI0aidNQDrvxpO53YIL3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090824648522-vv0ifc137uqu6kf654iig0nj5km6us0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
